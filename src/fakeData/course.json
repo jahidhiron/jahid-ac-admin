@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "title": "React Fundamentals",
+    "status": "draft",
+    "privacy": "Public",
+    "completion": 25,
+    "price": 49.99,
+    "rating": 4.5,
+    "studentCount": 1200,
+    "earning": 59988,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 2,
+    "title": "Advanced JavaScript",
+    "status": "published",
+    "privacy": "Private",
+    "completion": 75,
+    "price": 79.99,
+    "rating": 4.5,
+    "studentCount": 5000,
+    "earning": 399950,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 3,
+    "title": "Node.js & Express",
+    "status": "draft",
+    "privacy": "Public",
+    "completion": 50,
+    "price": 59.99,
+    "rating": 4.6,
+    "studentCount": 3200,
+    "earning": 191968,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 4,
+    "title": "Full-Stack Web Development",
+    "status": "published",
+    "privacy": "Public",
+    "completion": 100,
+    "price": 99.99,
+    "rating": 5.0,
+    "studentCount": 8500,
+    "earning": 849915,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 5,
+    "title": "Python for Beginners",
+    "status": "in review",
+    "privacy": "Public",
+    "price": 39.99,
+    "rating": 0,
+    "studentCount": 0,
+    "earning": 0,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Basics",
+    "status": "published",
+    "privacy": "Private",
+    "completion": 85,
+    "price": 89.99,
+    "rating": 4.9,
+    "studentCount": 6200,
+    "earning": 557938,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 7,
+    "title": "UI/UX Design Principles",
+    "status": "in review",
+    "privacy": "Public",
+    "price": 44.99,
+    "rating": 0,
+    "studentCount": 0,
+    "earning": 0,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 8,
+    "title": "Data Structures & Algorithms",
+    "status": "published",
+    "privacy": "Public",
+    "completion": 95,
+    "price": 69.99,
+    "rating": 4.7,
+    "studentCount": 7400,
+    "earning": 517926,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Essentials",
+    "status": "draft",
+    "privacy": "Private",
+    "completion": 60,
+    "price": 55.99,
+    "rating": 4.5,
+    "studentCount": 2800,
+    "earning": 156772,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 10,
+    "title": "Blockchain & Web3 Development",
+    "status": "in review",
+    "privacy": "Public",
+    "price": 109.99,
+    "rating": 0,
+    "studentCount": 0,
+    "earning": 0,
+    "image": "/images/placeholder.webp"
+  }
+]

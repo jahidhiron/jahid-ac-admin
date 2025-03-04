@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript: The Good Parts",
+    "status": "published",
+    "privacy": "Public",
+    "price": 29.99,
+    "rating": 4.8,
+    "soldCount": 15000,
+    "earning": 449850,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 2,
+    "title": "Eloquent JavaScript",
+    "status": "published",
+    "privacy": "Public",
+    "price": 39.99,
+    "rating": 4.7,
+    "soldCount": 12000,
+    "earning": 479880,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 3,
+    "title": "You Don't Know JS",
+    "status": "draft",
+    "privacy": "Public",
+    "price": 34.99,
+    "rating": 4.6,
+    "soldCount": 9000,
+    "earning": 314910,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 4,
+    "title": "Clean Code",
+    "status": "published",
+    "privacy": "Public",
+    "price": 49.99,
+    "rating": 5.0,
+    "soldCount": 18000,
+    "earning": 899820,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 5,
+    "title": "The Pragmatic Programmer",
+    "status": "in review",
+    "privacy": "Public",
+    "price": 44.99,
+    "rating": 0,
+    "soldCount": 0,
+    "earning": 0,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Algorithms",
+    "status": "published",
+    "privacy": "Private",
+    "price": 59.99,
+    "rating": 4.9,
+    "soldCount": 7500,
+    "earning": 449925,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 7,
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "status": "in review",
+    "privacy": "Public",
+    "price": 54.99,
+    "rating": 0,
+    "soldCount": 0,
+    "earning": 0,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 8,
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "status": "published",
+    "privacy": "Public",
+    "price": 69.99,
+    "rating": 4.7,
+    "soldCount": 6700,
+    "earning": 468933,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 9,
+    "title": "The Mythical Man-Month",
+    "status": "draft",
+    "privacy": "Private",
+    "price": 38.99,
+    "rating": 4.5,
+    "soldCount": 5200,
+    "earning": 202748,
+    "image": "/images/placeholder.webp"
+  },
+  {
+    "id": 10,
+    "title": "Deep Learning",
+    "status": "in review",
+    "privacy": "Public",
+    "price": 79.99,
+    "rating": 0,
+    "soldCount": 0,
+    "earning": 0,
+    "image": "/images/placeholder.webp"
+  }
+]
