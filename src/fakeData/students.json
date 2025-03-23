@@ -1,0 +1,72 @@
+[
+  {
+    "initials": "VK",
+    "name": "Vishal Kothelarakota",
+    "country": "USA",
+    "course": "React Course",
+    "enrolled": "2025-02-28"
+  },
+  {
+    "initials": "ZP",
+    "name": "Zoebelle Pang",
+    "country": "Singapore",
+    "course": "MERN Stack",
+    "enrolled": "2025-02-23"
+  },
+  {
+    "initials": "IH",
+    "name": "Ian Hosking",
+    "country": "UK",
+    "course": "Node.js Course",
+    "enrolled": "2025-02-19"
+  },
+  {
+    "initials": "AS",
+    "name": "Artur Stabozewski",
+    "country": "Poland",
+    "course": "Node.js Course",
+    "enrolled": "2025-02-10"
+  },
+  {
+    "initials": "SD",
+    "name": "Salvador Domingo",
+    "country": "Spain",
+    "course": "Angular Course",
+    "enrolled": "2025-02-03"
+  },
+  {
+    "initials": "ND",
+    "name": "Nancy Diaz",
+    "country": "Mexico",
+    "course": "Vue.js Course",
+    "enrolled": "2025-01-22"
+  },
+  {
+    "initials": "AB",
+    "name": "Alex Brown",
+    "country": "Canada",
+    "course": "React Course",
+    "enrolled": "2025-01-15"
+  },
+  {
+    "initials": "CD",
+    "name": "Charlie Dean",
+    "country": "Germany",
+    "course": "Next.js Course",
+    "enrolled": "2025-01-10"
+  },
+  {
+    "initials": "EF",
+    "name": "Emma Ford",
+    "country": "France",
+    "course": "Svelte Course",
+    "enrolled": "2025-01-05"
+  },
+  {
+    "initials": "GH",
+    "name": "George Hill",
+    "country": "Australia",
+    "course": "Python Course",
+    "enrolled": "2024-12-28"
+  }
+]

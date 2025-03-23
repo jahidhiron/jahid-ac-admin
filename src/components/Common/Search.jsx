@@ -23,7 +23,7 @@ const Search = ({ ...rest }) => {
           id='search'
           type='text'
           {...rest}
-          className='flex-1 bg-transparent border-none outline-none text-gray-800 dark:text-gray-200 placeholder-gray-400 dark:placeholder-primary px-2'
+          className={`flex-1 bg-transparent border-none outline-none text-gray-800 dark:text-gray-200 placeholder-gray-400 dark:placeholder-primary px-2 ${rest.className}`}
           value={rest?.search}
           onChange={(e) => rest?.setSearch(e.target.value)}
         />

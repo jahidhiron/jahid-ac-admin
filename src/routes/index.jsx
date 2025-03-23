@@ -53,6 +53,14 @@ import Description from "../pages/books/description";
 import Reviews from "../pages/books/reviews";
 import Pricing from "../pages/books/pricing";
 import Messages from "../pages/books/messages";
+import Overview from "../pages/performance/overview";
+import PerformanceLayout from "../components/Layout/PerformanceLayout/Layout";
+import Students from "../pages/performance/students";
+import ReviewsPerformance from "../pages/performance/reviews";
+import Engagements from "../pages/performance/engagements";
+import TrafficAndConversation from "../pages/performance/traffic-and-conversation";
+import Communication from "../pages/communication/communication";
+import Compose from "../pages/communication/compose";
 
 const Router = () => {
   return (
@@ -99,8 +107,29 @@ const Router = () => {
           <Route path={ROUTE.CLOSE_ACCOUNT} element={<AccountClose />} />
           <Route path={ROUTE.HELPSUPPORT} element={<Support />} />
 
+          <Route path={ROUTE.COMMUNICATION} element={<Communication />} />
+          <Route path={ROUTE.COMMUNICATIONCOMPOSE} element={<Compose />} />
+
+          {/* performance routes  */}
+          <Route element={<PerformanceLayout />}>
+            <Route path={ROUTE.PERFORMANCEOVERVIEW} element={<Overview />} />
+            <Route path={ROUTE.PERFORMANCESTUDENTS} element={<Students />} />
+            <Route
+              path={ROUTE.PERFORMANCETRAFFIC}
+              element={<TrafficAndConversation />}
+            />
+            <Route
+              path={ROUTE.PERFORMANCEENGAGEMENTS}
+              element={<Engagements />}
+            />
+            <Route
+              path={ROUTE.PERFORMANCEREVIEWS}
+              element={<ReviewsPerformance />}
+            />
+          </Route>
           <Route path='*' element={<PageNotFound />} />
         </Route>
+
         {/* course layout  */}
         <Route element={<CourseLayout />}>
           <Route path={ROUTE.COURSE_GOALS} element={<CourseGoal />} />

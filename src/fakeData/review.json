@@ -1,0 +1,66 @@
+[
+  {
+    "reviewerInitials": "ST",
+    "reviewerName": "Stephen Ilsys",
+    "timeAgo": "1 day ago",
+    "rating": 5,
+    "highlights": [
+      "Valuable information",
+      "Clear explanations",
+      "Engaging delivery",
+      "Helpful practice activities",
+      "Accurate course description",
+      "Knowledgeable instructor"
+    ]
+  },
+  {
+    "reviewerInitials": "JS",
+    "reviewerName": "John Smith",
+    "timeAgo": "2 days ago",
+    "rating": 4,
+    "highlights": [
+      "Well-structured course",
+      "Good examples",
+      "Practical applications",
+      "Easy to understand",
+      "Needs more depth in some areas"
+    ]
+  },
+  {
+    "reviewerInitials": "AL",
+    "reviewerName": "Alice Johnson",
+    "timeAgo": "3 days ago",
+    "rating": 5,
+    "highlights": [
+      "Highly recommended",
+      "Great instructor",
+      "Covers everything needed",
+      "Very engaging",
+      "Fantastic explanations"
+    ]
+  },
+  {
+    "reviewerInitials": "MB",
+    "reviewerName": "Michael Brown",
+    "timeAgo": "5 days ago",
+    "rating": 3,
+    "highlights": [
+      "Decent course",
+      "Some topics lack clarity",
+      "Good examples",
+      "Could use more real-world projects"
+    ]
+  },
+  {
+    "reviewerInitials": "EM",
+    "reviewerName": "Emily Davis",
+    "timeAgo": "1 week ago",
+    "rating": 4,
+    "highlights": [
+      "Informative and clear",
+      "Useful practice activities",
+      "Instructor is very knowledgeable",
+      "A bit fast-paced for beginners"
+    ]
+  }
+]

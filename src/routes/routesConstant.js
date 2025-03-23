@@ -70,3 +70,12 @@ export const GENAI_PROGRAM = "/account/genai-program";
 export const CLOSE_ACCOUNT = "/account/close";
 
 export const HELPSUPPORT = "/help-and-support";
+
+export const PERFORMANCEOVERVIEW = "/performance";
+export const PERFORMANCESTUDENTS = "/performance/students";
+export const PERFORMANCEREVIEWS = "/performance/reviews";
+export const PERFORMANCEENGAGEMENTS = "/performance/engagements";
+export const PERFORMANCETRAFFIC = "/performance/traffic-and-conversation";
+
+export const COMMUNICATION = "/communication";
+export const COMMUNICATIONCOMPOSE = "/communication/compose";

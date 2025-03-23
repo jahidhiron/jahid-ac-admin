@@ -5,6 +5,8 @@ import { FaRegUser } from "react-icons/fa";
 import { MdKeyboardArrowDown } from "react-icons/md";
 import { MdOutlineOndemandVideo } from "react-icons/md";
 import { FiBook } from "react-icons/fi";
+import { MdOutlineBarChart } from "react-icons/md";
+import { LuMessageSquareText } from "react-icons/lu";
 
 const Sidebar = ({
   sidebarOpen,
@@ -77,10 +79,18 @@ const Sidebar = ({
       icon: <FiBook />,
       activeCondition: pathname.includes("book"),
       to: "/books/",
-      // children: [
-      //   { title: "List", to: "/books/" },
-      //   { title: "New", to: "/book/add" },
-      // ],
+    },
+    {
+      title: "Performance",
+      icon: <MdOutlineBarChart className='text-xl' />,
+      activeCondition: pathname.includes("performance"),
+      to: "/performance/",
+    },
+    {
+      title: "Communication",
+      icon: <LuMessageSquareText className='text-xl' />,
+      activeCondition: pathname.includes("communication"),
+      to: "/communication/",
     },
   ];
 
